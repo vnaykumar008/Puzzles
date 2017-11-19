@@ -1,0 +1,5 @@
+C:\TFS\Puzzles\FileUtillities\obj\Debug\FileUtillities.csprojResolveAssemblyReference.cache
+C:\TFS\Puzzles\FileUtillities\bin\Debug\FileUtillities.dll
+C:\TFS\Puzzles\FileUtillities\bin\Debug\FileUtillities.pdb
+C:\TFS\Puzzles\FileUtillities\obj\Debug\FileUtillities.dll
+C:\TFS\Puzzles\FileUtillities\obj\Debug\FileUtillities.pdb

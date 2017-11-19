@@ -1,0 +1,12 @@
+c:\TFS\ConsoleApplication1\ConsoleApplication1\bin\Debug\Puzzle_LastPersonSurvives.exe.config
+c:\TFS\ConsoleApplication1\ConsoleApplication1\bin\Debug\Puzzle_LastPersonSurvives.exe
+c:\TFS\ConsoleApplication1\ConsoleApplication1\bin\Debug\Puzzle_LastPersonSurvives.pdb
+c:\TFS\ConsoleApplication1\ConsoleApplication1\obj\Debug\Puzzle_LastPersonSurvives.exe
+c:\TFS\ConsoleApplication1\ConsoleApplication1\obj\Debug\Puzzle_LastPersonSurvives.pdb
+C:\TFS\ConsoleApplication1\ConsoleApplication1\obj\Debug\Puzzle_LastPersonSurvives.csprojResolveAssemblyReference.cache
+C:\TFS\Puzzles\Puzzle_LastPersonSurvives\bin\Debug\Puzzle_LastPersonSurvives.exe.config
+C:\TFS\Puzzles\Puzzle_LastPersonSurvives\bin\Debug\Puzzle_LastPersonSurvives.exe
+C:\TFS\Puzzles\Puzzle_LastPersonSurvives\bin\Debug\Puzzle_LastPersonSurvives.pdb
+C:\TFS\Puzzles\Puzzle_LastPersonSurvives\obj\Debug\Puzzle_LastPersonSurvives.csprojResolveAssemblyReference.cache
+C:\TFS\Puzzles\Puzzle_LastPersonSurvives\obj\Debug\Puzzle_LastPersonSurvives.exe
+C:\TFS\Puzzles\Puzzle_LastPersonSurvives\obj\Debug\Puzzle_LastPersonSurvives.pdb

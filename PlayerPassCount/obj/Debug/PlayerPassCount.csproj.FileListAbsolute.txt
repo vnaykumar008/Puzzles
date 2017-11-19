@@ -1,0 +1,13 @@
+C:\TFS\Puzzles\PlayerPassCount\bin\Debug\PlayerPassCount.exe.config
+C:\TFS\Puzzles\PlayerPassCount\bin\Debug\PlayerPassCount.exe
+C:\TFS\Puzzles\PlayerPassCount\bin\Debug\PlayerPassCount.pdb
+C:\TFS\Puzzles\PlayerPassCount\obj\Debug\PlayerPassCount.csprojResolveAssemblyReference.cache
+C:\TFS\Puzzles\PlayerPassCount\obj\Debug\PlayerPassCount.exe
+C:\TFS\Puzzles\PlayerPassCount\obj\Debug\PlayerPassCount.pdb
+C:\TFS\Puzzles\PlayerPassCount\bin\Debug\EntityFramework.dll
+C:\TFS\Puzzles\PlayerPassCount\bin\Debug\EntityFramework.SqlServer.dll
+C:\TFS\Puzzles\PlayerPassCount\bin\Debug\EntityFramework.xml
+C:\TFS\Puzzles\PlayerPassCount\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Vinay Nadiminti\Documents\GitHub\Puzzles\PlayerPassCount\bin\Debug\PlayerPassCount.exe.config
+C:\Users\Vinay Nadiminti\Documents\GitHub\Puzzles\PlayerPassCount\obj\Debug\PlayerPassCount.exe
+C:\Users\Vinay Nadiminti\Documents\GitHub\Puzzles\PlayerPassCount\obj\Debug\PlayerPassCount.pdb

@@ -1,0 +1,6 @@
+C:\TFS\Puzzles\EntityFrameworkDemo\bin\EntityFrameworkDemo.dll.config
+C:\TFS\Puzzles\EntityFrameworkDemo\bin\EntityFrameworkDemo.dll
+C:\TFS\Puzzles\EntityFrameworkDemo\bin\EntityFrameworkDemo.pdb
+C:\TFS\Puzzles\EntityFrameworkDemo\obj\Debug\EntityFrameworkDemo.csprojResolveAssemblyReference.cache
+C:\TFS\Puzzles\EntityFrameworkDemo\obj\Debug\EntityFrameworkDemo.dll
+C:\TFS\Puzzles\EntityFrameworkDemo\obj\Debug\EntityFrameworkDemo.pdb

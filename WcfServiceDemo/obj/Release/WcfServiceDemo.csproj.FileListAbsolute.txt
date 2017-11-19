@@ -1,0 +1,6 @@
+C:\TFS\Puzzles\WcfServiceDemo\bin\WcfServiceDemo.dll.config
+C:\TFS\Puzzles\WcfServiceDemo\bin\WcfServiceDemo.dll
+C:\TFS\Puzzles\WcfServiceDemo\bin\WcfServiceDemo.pdb
+C:\TFS\Puzzles\WcfServiceDemo\obj\Release\WcfServiceDemo.csprojResolveAssemblyReference.cache
+C:\TFS\Puzzles\WcfServiceDemo\obj\Release\WcfServiceDemo.dll
+C:\TFS\Puzzles\WcfServiceDemo\obj\Release\WcfServiceDemo.pdb

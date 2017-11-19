@@ -1,0 +1,8 @@
+C:\TFS\Puzzles\GetProcessLockingFile\bin\Debug\GetProcessLockingFile.exe.config
+C:\TFS\Puzzles\GetProcessLockingFile\bin\Debug\GetProcessLockingFile.exe
+C:\TFS\Puzzles\GetProcessLockingFile\bin\Debug\GetProcessLockingFile.pdb
+C:\TFS\Puzzles\GetProcessLockingFile\obj\Debug\GetProcessLockingFile.exe
+C:\TFS\Puzzles\GetProcessLockingFile\obj\Debug\GetProcessLockingFile.pdb
+C:\TFS\Puzzles\GetProcessLockingFile\bin\Debug\FileUtillities.dll
+C:\TFS\Puzzles\GetProcessLockingFile\bin\Debug\FileUtillities.pdb
+C:\TFS\Puzzles\GetProcessLockingFile\obj\Debug\GetProcessLockingFile.csprojResolveAssemblyReference.cache
