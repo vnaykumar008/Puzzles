@@ -8,7 +8,9 @@ namespace PlayerPassCount
 {
 
     #region palindrome
-
+    /// <summary>
+    /// How to find given data(different type of datatype inputs) is palindrom or not.
+    /// </summary>
     public class Palindrome
     {
         public void IsPalindrome(string name)
