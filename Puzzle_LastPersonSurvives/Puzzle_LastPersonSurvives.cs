@@ -10,7 +10,7 @@ namespace Puzzles
     /// </summary>
     class Puzzle_LastPersonSurvives
     {
-        const int PEOPLESIZE=100;
+        const int PEOPLESIZE=10;
         static void Main(string[] args)
         {
             ServiceReference1.Service1Client serClient = new ServiceReference1.Service1Client();
