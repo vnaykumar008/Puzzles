@@ -3,3 +3,9 @@ C:\TFS\Puzzles\FileUtillities\bin\Debug\FileUtillities.dll
 C:\TFS\Puzzles\FileUtillities\bin\Debug\FileUtillities.pdb
 C:\TFS\Puzzles\FileUtillities\obj\Debug\FileUtillities.dll
 C:\TFS\Puzzles\FileUtillities\obj\Debug\FileUtillities.pdb
+E:\Education\GitProjects\Puzzles\FileUtillities\bin\Debug\FileUtillities.dll
+E:\Education\GitProjects\Puzzles\FileUtillities\bin\Debug\FileUtillities.pdb
+E:\Education\GitProjects\Puzzles\FileUtillities\obj\Debug\FileUtillities.csprojAssemblyReference.cache
+E:\Education\GitProjects\Puzzles\FileUtillities\obj\Debug\FileUtillities.csproj.CoreCompileInputs.cache
+E:\Education\GitProjects\Puzzles\FileUtillities\obj\Debug\FileUtillities.dll
+E:\Education\GitProjects\Puzzles\FileUtillities\obj\Debug\FileUtillities.pdb

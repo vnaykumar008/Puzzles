@@ -4,3 +4,10 @@ C:\TFS\Puzzles\EntityFrameworkDemo\bin\EntityFrameworkDemo.pdb
 C:\TFS\Puzzles\EntityFrameworkDemo\obj\Debug\EntityFrameworkDemo.csprojResolveAssemblyReference.cache
 C:\TFS\Puzzles\EntityFrameworkDemo\obj\Debug\EntityFrameworkDemo.dll
 C:\TFS\Puzzles\EntityFrameworkDemo\obj\Debug\EntityFrameworkDemo.pdb
+E:\Education\GitProjects\Puzzles\EntityFrameworkDemo\bin\EntityFrameworkDemo.dll.config
+E:\Education\GitProjects\Puzzles\EntityFrameworkDemo\bin\EntityFrameworkDemo.dll
+E:\Education\GitProjects\Puzzles\EntityFrameworkDemo\bin\EntityFrameworkDemo.pdb
+E:\Education\GitProjects\Puzzles\EntityFrameworkDemo\obj\Debug\EntityFrameworkDemo.csprojAssemblyReference.cache
+E:\Education\GitProjects\Puzzles\EntityFrameworkDemo\obj\Debug\EntityFrameworkDemo.csproj.CoreCompileInputs.cache
+E:\Education\GitProjects\Puzzles\EntityFrameworkDemo\obj\Debug\EntityFrameworkDemo.dll
+E:\Education\GitProjects\Puzzles\EntityFrameworkDemo\obj\Debug\EntityFrameworkDemo.pdb

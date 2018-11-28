@@ -6,3 +6,13 @@ C:\TFS\Puzzles\GetProcessLockingFile\obj\Debug\GetProcessLockingFile.pdb
 C:\TFS\Puzzles\GetProcessLockingFile\bin\Debug\FileUtillities.dll
 C:\TFS\Puzzles\GetProcessLockingFile\bin\Debug\FileUtillities.pdb
 C:\TFS\Puzzles\GetProcessLockingFile\obj\Debug\GetProcessLockingFile.csprojResolveAssemblyReference.cache
+E:\Education\GitProjects\Puzzles\GetProcessLockingFile\bin\Debug\GetProcessLockingFile.exe.config
+E:\Education\GitProjects\Puzzles\GetProcessLockingFile\bin\Debug\GetProcessLockingFile.exe
+E:\Education\GitProjects\Puzzles\GetProcessLockingFile\bin\Debug\GetProcessLockingFile.pdb
+E:\Education\GitProjects\Puzzles\GetProcessLockingFile\bin\Debug\FileUtillities.dll
+E:\Education\GitProjects\Puzzles\GetProcessLockingFile\bin\Debug\FileUtillities.pdb
+E:\Education\GitProjects\Puzzles\GetProcessLockingFile\obj\Debug\GetProcessLockingFile.csprojAssemblyReference.cache
+E:\Education\GitProjects\Puzzles\GetProcessLockingFile\obj\Debug\GetProcessLockingFile.csproj.CoreCompileInputs.cache
+E:\Education\GitProjects\Puzzles\GetProcessLockingFile\obj\Debug\GetProcessLockingFile.csproj.CopyComplete
+E:\Education\GitProjects\Puzzles\GetProcessLockingFile\obj\Debug\GetProcessLockingFile.exe
+E:\Education\GitProjects\Puzzles\GetProcessLockingFile\obj\Debug\GetProcessLockingFile.pdb

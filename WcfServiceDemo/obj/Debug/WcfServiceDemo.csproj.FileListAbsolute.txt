@@ -4,3 +4,10 @@ C:\TFS\Puzzles\WcfServiceDemo\bin\WcfServiceDemo.pdb
 C:\TFS\Puzzles\WcfServiceDemo\obj\Debug\WcfServiceDemo.csprojResolveAssemblyReference.cache
 C:\TFS\Puzzles\WcfServiceDemo\obj\Debug\WcfServiceDemo.dll
 C:\TFS\Puzzles\WcfServiceDemo\obj\Debug\WcfServiceDemo.pdb
+E:\Education\GitProjects\Puzzles\WcfServiceDemo\bin\WcfServiceDemo.dll.config
+E:\Education\GitProjects\Puzzles\WcfServiceDemo\bin\WcfServiceDemo.dll
+E:\Education\GitProjects\Puzzles\WcfServiceDemo\bin\WcfServiceDemo.pdb
+E:\Education\GitProjects\Puzzles\WcfServiceDemo\obj\Debug\WcfServiceDemo.csprojAssemblyReference.cache
+E:\Education\GitProjects\Puzzles\WcfServiceDemo\obj\Debug\WcfServiceDemo.csproj.CoreCompileInputs.cache
+E:\Education\GitProjects\Puzzles\WcfServiceDemo\obj\Debug\WcfServiceDemo.dll
+E:\Education\GitProjects\Puzzles\WcfServiceDemo\obj\Debug\WcfServiceDemo.pdb

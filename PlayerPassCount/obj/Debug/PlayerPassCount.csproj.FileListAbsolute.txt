@@ -11,3 +11,15 @@ C:\TFS\Puzzles\PlayerPassCount\bin\Debug\EntityFramework.SqlServer.xml
 C:\Users\Vinay Nadiminti\Documents\GitHub\Puzzles\PlayerPassCount\bin\Debug\PlayerPassCount.exe.config
 C:\Users\Vinay Nadiminti\Documents\GitHub\Puzzles\PlayerPassCount\obj\Debug\PlayerPassCount.exe
 C:\Users\Vinay Nadiminti\Documents\GitHub\Puzzles\PlayerPassCount\obj\Debug\PlayerPassCount.pdb
+E:\Education\GitProjects\Puzzles\PlayerPassCount\bin\Debug\PlayerPassCount.exe.config
+E:\Education\GitProjects\Puzzles\PlayerPassCount\bin\Debug\PlayerPassCount.exe
+E:\Education\GitProjects\Puzzles\PlayerPassCount\bin\Debug\PlayerPassCount.pdb
+E:\Education\GitProjects\Puzzles\PlayerPassCount\bin\Debug\EntityFramework.dll
+E:\Education\GitProjects\Puzzles\PlayerPassCount\bin\Debug\EntityFramework.SqlServer.dll
+E:\Education\GitProjects\Puzzles\PlayerPassCount\bin\Debug\EntityFramework.xml
+E:\Education\GitProjects\Puzzles\PlayerPassCount\bin\Debug\EntityFramework.SqlServer.xml
+E:\Education\GitProjects\Puzzles\PlayerPassCount\obj\Debug\PlayerPassCount.csprojAssemblyReference.cache
+E:\Education\GitProjects\Puzzles\PlayerPassCount\obj\Debug\PlayerPassCount.csproj.CoreCompileInputs.cache
+E:\Education\GitProjects\Puzzles\PlayerPassCount\obj\Debug\PlayerPassCount.csproj.CopyComplete
+E:\Education\GitProjects\Puzzles\PlayerPassCount\obj\Debug\PlayerPassCount.exe
+E:\Education\GitProjects\Puzzles\PlayerPassCount\obj\Debug\PlayerPassCount.pdb

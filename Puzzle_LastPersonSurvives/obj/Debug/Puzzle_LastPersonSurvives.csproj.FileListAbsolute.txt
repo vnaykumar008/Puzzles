@@ -10,3 +10,10 @@ C:\TFS\Puzzles\Puzzle_LastPersonSurvives\bin\Debug\Puzzle_LastPersonSurvives.pdb
 C:\TFS\Puzzles\Puzzle_LastPersonSurvives\obj\Debug\Puzzle_LastPersonSurvives.csprojResolveAssemblyReference.cache
 C:\TFS\Puzzles\Puzzle_LastPersonSurvives\obj\Debug\Puzzle_LastPersonSurvives.exe
 C:\TFS\Puzzles\Puzzle_LastPersonSurvives\obj\Debug\Puzzle_LastPersonSurvives.pdb
+E:\Education\GitProjects\Puzzles\Puzzle_LastPersonSurvives\bin\Debug\Puzzle_LastPersonSurvives.exe.config
+E:\Education\GitProjects\Puzzles\Puzzle_LastPersonSurvives\bin\Debug\Puzzle_LastPersonSurvives.exe
+E:\Education\GitProjects\Puzzles\Puzzle_LastPersonSurvives\bin\Debug\Puzzle_LastPersonSurvives.pdb
+E:\Education\GitProjects\Puzzles\Puzzle_LastPersonSurvives\obj\Debug\Puzzle_LastPersonSurvives.csprojAssemblyReference.cache
+E:\Education\GitProjects\Puzzles\Puzzle_LastPersonSurvives\obj\Debug\Puzzle_LastPersonSurvives.csproj.CoreCompileInputs.cache
+E:\Education\GitProjects\Puzzles\Puzzle_LastPersonSurvives\obj\Debug\Puzzle_LastPersonSurvives.exe
+E:\Education\GitProjects\Puzzles\Puzzle_LastPersonSurvives\obj\Debug\Puzzle_LastPersonSurvives.pdb
